@@ -3,12 +3,12 @@ This repository is my personal collection of AI model implementations on open so
 
 ## Generative Adversarial Networks(GANS)
 Using the current GAN model in this repository, I was able to generate images of handwritten digits using the MNIST dataset.
-(ORIGINAL IMAGE)
-![real_images](https://github.com/Dzolver/NeuralNetworkLibrary/assets/15234595/50d5e735-ca5e-483f-94ba-fbf71100c295)
-( AFTER THE 1st EPOCH )
-![fake_images-1](https://github.com/Dzolver/NeuralNetworkLibrary/assets/15234595/57e1c89d-f874-4daf-867a-92d74c96a877)
-( AFTER THE 50th EPOCH )
-![fake_images-50](https://github.com/Dzolver/NeuralNetworkLibrary/assets/15234595/0623bf6c-c33e-47ca-be17-6f4fe7cd2519)
-( AFTER ALL 200 EPOCHS)
-![fake_images-200](https://github.com/Dzolver/NeuralNetworkLibrary/assets/15234595/8849169d-ec5f-4116-bc30-7c4e5448fea5)
 
+![real_images](https://github.com/Dzolver/NeuralNetworkLibrary/assets/15234595/50d5e735-ca5e-483f-94ba-fbf71100c295)
+*ORIGINAL IMAGE*
+![fake_images-1](https://github.com/Dzolver/NeuralNetworkLibrary/assets/15234595/57e1c89d-f874-4daf-867a-92d74c96a877)
+*AFTER THE 1st EPOCH*
+![fake_images-50](https://github.com/Dzolver/NeuralNetworkLibrary/assets/15234595/0623bf6c-c33e-47ca-be17-6f4fe7cd2519)
+*AFTER THE 50th EPOCH*
+![fake_images-200](https://github.com/Dzolver/NeuralNetworkLibrary/assets/15234595/8849169d-ec5f-4116-bc30-7c4e5448fea5)
+*AFTER ALL 200 EPOCHS*
